@@ -4,7 +4,7 @@ The missing tool for Todoist status reporting.
 ## How to install
 Simply install the project using PIP.
 ```
-pip3 install --user https://github.com/thozza/reportist.git
+pip3 install --user git+https://github.com/thozza/reportist.git
 ```
 
 ## Usage
